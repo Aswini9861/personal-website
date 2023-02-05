@@ -1,0 +1,150 @@
+div {
+  background-color: #e9f3f3;
+}
+body {
+  margin-top: -30px;
+
+  text-align: center;
+
+}
+.topcontainer {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-top: 50px;
+  margin: 20 auto 0 auto;
+  height: 1;
+  color: #11999e;
+  font-family: 'Cedarville Cursive', cursive;
+}
+
+.middle-container {
+  padding-top: 70px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 25px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 290px;
+}
+
+.top-cloud {
+  position: relative;
+  right: -200px;
+  top: 30px;
+}
+
+.computer-img {
+border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  background-color: black;
+
+}
+.skill-row {
+text-align: left;
+width: 50%;
+margin: 100px auto 100px auto;
+line-height:2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #11999e;
+}
+h3,
+.footer-link {
+  color: #11999e;
+}
+h2 {
+  font-weight: normal;
+}
+
+
+
+.skill-img{
+    width: 25%;
+    background-color: black;
+    float: right;
+    margin-right: 30px;
+border-radius: 50%;
+
+}
+.contact-me{
+
+}
+
+.contact{
+  background: #3498db;
+  border-radius: 20px;
+  font-family: Georgia;
+  color: #fcfcfc;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 50px;
+}
+.contact:hover{
+  background: #9e119e;
+
+}
+.name{
+  color: #66BFBF;
+}
+
+.mydesc{
+  color: #40514E;
+  width: 250px;
+  margin: auto;
+}
+hr{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #EAF6F6;
+  border-style:none;
+  width: 4%;
+  border-width: 5px;
+  border-top-style: dotted;
+}
+.skillhead{
+  color: #66BFBF;
+}
+.tool{
+  color:#11999E ;
+}
+
+.footer-link{
+  font-size: 15px;
+  color: rgb(19, 231, 199);
+  text-align: center;
+  margin-right: 15px;
+}
+.footer-link:hover{
+  color: #f8f2f4;
+
+}
+.btn{
+  color: #EAF6F6;
+
+}
+
+
+.profile-photo{
+  border-radius: 50%;
+
+}
+
+.copy-right{
+  color: #EAF6F6;
+  font-size: 75%;
+  padding: 20px 0px;
+}
